@@ -1,3 +1,4 @@
 # COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+He aprendido lo que es Docker Compose y cómo se utiliza para gestionar aplicaciones multi-contenedor. A través de la práctica, he comprendido la importancia de aprender bien la estructura y sintaxis de los archivos YAML, ya que un pequeño error puede generar problemas en la configuración. Es fundamental asegurarse de que cada sección del archivo esté correctamente definida, como los servicios, volúmenes y redes, para que el contenedor funcione adecuadamente.
+
+También he aprendido que el uso de volúmenes y variables de entorno en Docker es crucial para mantener la persistencia de datos y la configuración de los servicios. Antes de crear un archivo docker-compose.yml, debo investigar sobre qué variables de entorno son necesarias para cada servicio y qué volúmenes debo definir para evitar problemas de configuración.
