@@ -31,7 +31,7 @@ services:
       WORDPRESS_DB_PASSWORD: passwordUser
       WORDPRESS_DB_NAME: wordpressDB
     volumes:
-      - wordpress-vol;/var/www/html
+      - wordpress-vol:/var/www/html
     networks:
       - net-wp
     healthcheck:
